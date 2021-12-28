@@ -1,0 +1,6 @@
+name: country_capital_quiz
+main: JunDev76\country_capital_quiz\country_capital_quiz
+version: 1.0.0
+author: JunDev76
+api:
+  - 3.0.0
